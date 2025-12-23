@@ -14,3 +14,5 @@ streamable HTTP support
 https://github.com/modelcontextprotocol/go-sdk/issues/10
 
 
+### MCP 서버 모음
+https://github.com/modelcontextprotocol/servers
